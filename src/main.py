@@ -30,6 +30,8 @@ with gr.Blocks() as grBlock:
         """
         # Documentation img gen
 
+        [Source code](https://github.com/brandonmcclure/documentation_img_gen)
+        
         This application is designed to help me build documentation for non technical users. I often need to write documentation on how to remote into a given Windows Server. I want to include the server name, but sometimes the server name changes. 
 
         This app allows you to generate an image of a Windows 10 Remote Desktop Connection window with your specified computer name and username so that it matches your domain/environment.
